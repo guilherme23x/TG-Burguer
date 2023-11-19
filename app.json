@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "tbburguer",
+    "slug": "snack-0e92a6ef-c564-488a-a387-2a1ec05d71ad",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.gui23x.snack0e92a6efc564488aa3872a1ec05d71ad"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "30d22f32-4afe-4337-a562-f32b03d5c18b"
+      }
+    }
+  }
+}
